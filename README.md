@@ -4,7 +4,7 @@
 
 **Context:** BEng Computer Engineering Capstone Project.
 
-**Focus:** Stereo Vision, Edge AI, Vehicle Parameters Recognition.
+**Focus:** C++ Development, Multi-threaded Edge AI, Stereo Vision, Vehicle Parameters Recognition.
 
 ---
 
